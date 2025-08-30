@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 
-const App = () => {
+const basic = () => {
 let user = "Swayam"
 const age = 20
 
@@ -37,4 +37,4 @@ const changeA = ()=>{
   )
 }
 
-export default App
+export default basic
