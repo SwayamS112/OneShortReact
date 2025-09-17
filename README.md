@@ -117,3 +117,8 @@ const getData = async () => {
 useEffect(() => {
   getData();
 }, []);
+
+
+## React Routes->
+
+### due to react routes i have made app.jsx and app2.jsx and due to routing i have made a route "/" for app.jsx file to learn 
