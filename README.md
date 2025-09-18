@@ -158,6 +158,7 @@ useEffect(() => {
   <Route path="/about" element={<About />} />
 </Routes>
 ```
+---
 
 ## 🌍 Context API -> used to centralised the data 
 
